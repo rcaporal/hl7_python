@@ -1,1 +1,1 @@
-# Modelo cliente-servidor de comunicação de dados utilizando as normal HL7 v2.x
+# Modelo cliente-servidor de comunicação de dados utilizando as normas HL7 v2.x
